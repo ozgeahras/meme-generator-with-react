@@ -54,7 +54,7 @@ npm run dev
 
 ## Screenshots
 
-![App Screenshot](https://github.com/ozgeahras/meme-generator-with-react/blob/master/src/assets/screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/ozgeahras/meme-generator-with-react/master/dist/screenshot.png)
 
 ## About Me
 
