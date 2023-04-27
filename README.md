@@ -31,6 +31,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/ozgeahras/meme-generator-with-react.git
+
 ```
 
 Go to the project directory
