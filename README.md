@@ -9,6 +9,8 @@
 - Props
 - .map()
 - useState()
+- useEffect()
+- fetch(API)
 
 ### Links & Demo
 
